@@ -68,8 +68,6 @@ How to run locally:
 
 ```bash
 
-```bash
-
 # Run the server
 npm run dev
 
@@ -79,6 +77,7 @@ node index.js
 npm run dev
 
 
-```	
+```
+
 
 
