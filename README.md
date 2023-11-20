@@ -20,7 +20,7 @@ Brief description or tagline about your project.
 
 ## Description
 
-With real time chatting it is essentioal to have web sockets that provide real time chat, with socket.io, it mimics the concept of web sockets to listed to events.
+With real time chatting it is essential to have web sockets that provide real time chat, with socket.io, it mimics the concept of web sockets to listed to events.
 
 I used Node and Express to come up with the API and React for the client.
 
@@ -37,11 +37,11 @@ I used Node and Express to come up with the API and React for the client.
 - Express.js
 - Socket.io
 - React
-- Other relevant technologies
+
 
 ## Installation
 
-Provide instructions on how to set up the project locally.
+How to setup locally:
 
 ```bash
 # Clone the repository
@@ -64,7 +64,9 @@ npm install
 
 ## Usage
 
-Provide instructions on how to use the project.
+How to run locally:
+
+```bash
 
 ```bash
 
